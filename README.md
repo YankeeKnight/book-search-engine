@@ -7,7 +7,7 @@ MERN
 A MERN stack based application using GraphQL, Apollo Server, REACT, MongoDB, Node.js, and Express.js. This application allows a user to search for books and save books to their list as long as they are logged on. 
 
 ## Installation
-Deployed @ [My Portfolio](https://yankeeknight.github.io/Portfolio-2.0/#projects)
+Deployed @ [Book Search](https://yankeeknight.github.io/Portfolio-2.0/#projects)
 
 
 ## Screenshot
